@@ -1,0 +1,14 @@
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\bin\Debug\MobileRepair.exe.config
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\bin\Debug\MobileRepair.exe
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\bin\Debug\MobileRepair.pdb
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\obj\Debug\MobileRepair.csproj.AssemblyReference.cache
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\obj\Debug\MobileRepair.csproj.SuggestedBindingRedirects.cache
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\obj\Debug\MobileRepair.Properties.Resources.resources
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\obj\Debug\MobileRepair.csproj.GenerateResource.cache
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\obj\Debug\MobileRepair.csproj.CoreCompileInputs.cache
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\obj\Debug\MobileRepair.exe
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\obj\Debug\MobileRepair.pdb
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\obj\Debug\MobileRepair.Customers.resources
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\obj\Debug\MobileRepair.Spares.resources
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\obj\Debug\MobileRepair.Repair.resources
+C:\Users\janna\Desktop\MobileRepair\MobileRepair\obj\Debug\MobileRepair.Login.resources
